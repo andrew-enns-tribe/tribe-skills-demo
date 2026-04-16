@@ -1,0 +1,17 @@
+{
+  "name": "github-review-helper",
+  "description": "Triage pull request feedback, summarize review threads, and prepare focused code-review response plans.",
+  "version": "0.9.0",
+  "author": {
+    "name": "Andrew Enns",
+    "email": "andrew@tribe.ai"
+  },
+  "repository": "https://github.com/andrew-enns-tribe/tribe-skills-demo",
+  "license": "MIT",
+  "keywords": [
+    "github",
+    "pull-requests",
+    "code-review",
+    "triage"
+  ]
+}
