@@ -1,0 +1,7 @@
+{
+  "author": "Andrew Enns",
+  "description": "Turn git diffs, pull requests, issue lists, and rough notes into concise release notes, changelog entries, and stakeholder update bullets.",
+  "name": "release-notes-drafter",
+  "title": "release-notes-drafter",
+  "version": "0.1.0"
+}
