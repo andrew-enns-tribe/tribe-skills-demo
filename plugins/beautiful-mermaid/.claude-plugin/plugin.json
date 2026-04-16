@@ -1,0 +1,17 @@
+{
+  "name": "beautiful-mermaid",
+  "description": "Turn rough ideas into clean Mermaid diagrams and refine existing Mermaid syntax.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Andrew Enns",
+    "email": "andrew@tribe.ai"
+  },
+  "repository": "https://github.com/andrew-enns-tribe/tribe-skills-demo",
+  "license": "MIT",
+  "keywords": [
+    "mermaid",
+    "diagrams",
+    "visualization",
+    "architecture"
+  ]
+}

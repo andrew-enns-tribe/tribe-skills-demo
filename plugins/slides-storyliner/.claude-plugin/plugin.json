@@ -1,0 +1,17 @@
+{
+  "name": "slides-storyliner",
+  "description": "Shape executive slide narratives, tighten messaging, and convert notes into deck-ready outlines.",
+  "version": "1.1.0",
+  "author": {
+    "name": "Andrew Enns",
+    "email": "andrew@tribe.ai"
+  },
+  "repository": "https://github.com/andrew-enns-tribe/tribe-skills-demo",
+  "license": "MIT",
+  "keywords": [
+    "slides",
+    "presentations",
+    "storytelling",
+    "executive-communication"
+  ]
+}
